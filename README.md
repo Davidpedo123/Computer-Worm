@@ -1,2 +1,3 @@
 # Gusano-Infor
-Un gusano informático, básico el cual replica el código dentro del mismo programa utilizado frecuentemente por ciberdelicuentes para dinfundir codigo malicioso
+A basic computer worm, which replicates the code within the same program frequently used by cybercriminals to spread malicious code.
+
